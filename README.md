@@ -8,7 +8,7 @@ Recent studies on the interaction between emotion and reading comprehension prov
 
 ___
 ## **Introduction**
-This repository includes code to replicate the analysis and produce figures in the paper. In short, our analysis includes 2 parts.
+In short, our analysis includes 2 parts.
 
 * HMM modelling with co-clustering on Eye fixations (see [**This paper**](https://link.springer.com/article/10.3758/s13428-021-01541-5) for more detail)
 * Behavioural (reading) analysis along with HMM Results
