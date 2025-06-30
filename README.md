@@ -1,14 +1,4 @@
 # Emotion influences behavioral outcomes and attention during goal-directed reading
-
-[![Paper](https://img.shields.io/badge/Paper-preprint-blue)](https://x.com/ericwan53761434)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Eric&style=social&url=https%3A%2F%2Ftwitter.com%2FANDlab3)
-](https://x.com/ericwan53761434)
-
-
-Code and data for **Emotion influences behavioral outcomes and attention during goal-directed reading** 
-
-**E, Wang, Y Zheng JH Hsiao, U Maurer, (2025). Emotion influence comprehension in goal-directed reading through Attention.** *PsyArXiv* <br/>
-
 ___
 
 <img src="Cover_img.JPG"/><br/>
@@ -22,9 +12,3 @@ This repository includes code to replicate the analysis and produce figures in t
 
 * HMM modelling with co-clustering on Eye fixations (see [**This paper**](https://link.springer.com/article/10.3758/s13428-021-01541-5) for more detail)
 * Behavioural (reading) analysis along with HMM Results
-
-
-* To replicate the HMM model, go to [HMM_model](HMM_model/), and run [Model_fitting.m](HMM_model/Model_fitting.m).
-___
-
-For bug reports, please contact [Eric Wang](mailto:eric.wang2004nz@link.cuhk.edu.hk)
