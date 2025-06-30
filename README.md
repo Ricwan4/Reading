@@ -23,8 +23,6 @@ This repository includes code to replicate the analysis and produce figures in t
 * HMM modelling with co-clustering on Eye fixations (see [**This paper**](https://link.springer.com/article/10.3758/s13428-021-01541-5) for more detail)
 * Behavioural (reading) analysis along with HMM Results
 
-
-* To replicate the HMM model, go to [HMM_model](HMM_model/), and run [Model_fitting.m](HMM_model/Model_fitting.m).
 ___
 
 For bug reports, please contact [Eric Wang](mailto:eric.wang2004nz@link.cuhk.edu.hk)
